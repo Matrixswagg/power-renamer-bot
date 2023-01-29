@@ -81,22 +81,3 @@ EXAMPLE - mongodb+srv://[UserName]:[password]@cluster0.dciqs.mongodb.net/myFirst
 > Total users
 * `/users` Total users
 
-## Follow Me🔥:
-
-
-<p align="left">
-<a href="https://t.me/cinemala_com1"><img src="https://img.shields.io/badge/Join%20Our%20Group-Telegram-blue?style=for-the-badge&logo=telegram"></a>
-</p>
-<p align="left">
-<a href="https://github.com/Devil-Botz/RenameBot"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-
-##  CONTACT ME ON ⬇️ 
-
-<p align="left">
-<a href="https://t.me/Elsasupportgp"><img src="https://img.shields.io/badge/Support-red?style=for-the-badge&logo=telegram"></a>
-</p>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devil-Botz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
