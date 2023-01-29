@@ -6,10 +6,10 @@ class script(object):
 
     DEV_TXT = """<b>☬ ᴛʜᴀɴᴋs ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀs ☬
 
-➥ <a href=https://github.com/nobody_148>『𝓝𝓞𝓑𝓞𝓓𝓨』</a>"""
+➥ <a href=https://github.com/nobody_148>ɴᴏʙᴏᴅʏ</a>"""
 
     ABOUT_TXT = """<b>🍃 ᴍʏ ɴᴀᴍᴇ : {}
-🍃 ᴅᴇᴠ : <a href=https://t.me/nobody_148>『𝓝𝓞𝓑𝓞𝓓𝓨』</a> 
+🍃 ᴅᴇᴠ : <a href=https://t.me/nobody_148>ɴᴏʙᴏᴅʏ</a> 
 🍃 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 🍃 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
 🍃 ᴅᴀᴛᴀʙᴀsᴇ : <a href=https://cloud.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a>
