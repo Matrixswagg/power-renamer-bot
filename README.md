@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd89177b69eb65d48b690.jpg" alt="power">
+  <img src="https://telegra.ph/file/b22b90cd59fd30175997d.jpg" alt="power">
 </p>
 # RENAME BOT
 
