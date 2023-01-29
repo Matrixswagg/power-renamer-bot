@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F70000&width=435&lines=%E2%98%9E+Hi+I'm+Devil's+Rename+Bot+%F0%9F%98%88)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://telegra.ph/file/0e3738d56ff92e363a1d9.jpg" alt="Rename Bot">
